@@ -1,5 +1,8 @@
 package com.mkyong.hashing;
 
+/** Test
+*/
+
 /**
  * Hello world!
  *
